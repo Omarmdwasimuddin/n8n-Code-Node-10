@@ -7,3 +7,4 @@
 ![](https://imgur.com/pSE5jA3.png)
 #### click: Code in JavaScript er +sign--->search: gmail--->click: Send a message--->value set koro
 ![](https://imgur.com/wUBidSq.png)
+#### click: Execution workflow--->done!
